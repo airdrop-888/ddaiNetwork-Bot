@@ -2,7 +2,8 @@
 
 Script ini digunakan untuk mengotomatiskan klaim misi pada platform DDAI Network, membantu pengguna menyelesaikan tugas dengan cepat dan efisien! 🚀
 
-![DDAINetwork](https://imagedelivery.net/BvtfqsKIStCipnKIQ2dzlw/151856e2-162e-46f9-9c80-2e94283fc500/public)
+![photo_2025-05-24_22-34-26](https://github.com/user-attachments/assets/2f3006c7-3fb5-4f8a-a342-c68c2eebf77b)
+
 
 ---
 
@@ -16,12 +17,16 @@ Script ini digunakan untuk mengotomatiskan klaim misi pada platform DDAI Network
 
 ---
 
+![asdasd](https://github.com/user-attachments/assets/aaf51ed6-58ff-46c8-8d5e-ad40063d5776)
+
+## Take the accessToken and input to file tokens.txt
+
 ## 🚀 Cara Penggunaan
 
 1. **Clone repository ini**
 ```sh
-git clone https://github.com/your-username/DDAINetwork-Bot.git
-cd DDAINetwork-Bot
+git clone https://github.com/airdrop-888/ddaiNetwork-Bot.git
+cd ddaiNetwork-Bot
 ```
 
 ---
@@ -54,13 +59,6 @@ socks4://username:password@host:port
 ```sh
 node task.js
 ```
-Atau, buat file `Run.bat` dengan isi:
-```bat
-@echo off
-node task.js
-pause
-```
-Lalu double-click `Run.bat`.
 
 ---
 
