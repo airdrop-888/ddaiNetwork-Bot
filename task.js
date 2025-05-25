@@ -1,8 +1,9 @@
 const axios = require('axios');
 const chalk = require('chalk');
 const cfonts = require('cfonts');
-const HttpProxyAgent = require('http-proxy-agent');
-const SocksProxyAgent = require('socks-proxy-agent');
+const {HttpProxyAgent} = require('http-proxy-agent');
+const {HttpsProxyAgent} = require('https-proxy-agent');
+const {SocksProxyAgent} = require('socks-proxy-agent');
 const readlineSync = require('readline-sync');
 const fs = require('fs'); // Ensure fs is required
 
